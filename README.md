@@ -18,9 +18,9 @@ dictionary.
 
 Here then, is *Dictionarium Gallovidii Linguae Latinae*,
 a Latin-English dictionary written from the perspective of
-an English person (engineer?) learning the Latin language
-from a small number of primary sources and a larger number
-of literary secondary sources.
+an English-speaking person (engineer?) learning the Latin 
+language from a small number of primary sources and a 
+larger number of literary secondary sources.
 
 The document is not yet finished, but I am pretty
 determined to learn this stuff, so expect actual progress
