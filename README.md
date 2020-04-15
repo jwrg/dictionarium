@@ -9,12 +9,12 @@ sheets for the words and concepts that I was wrestling
 with understanding and remembering.  One such document for
 Latin nouns, one such for verbs, which makes sense.  As the
 language to which I was being indroduced grew in
-complexity, so too did the number of reference sheets---
-adverbs, adjectives, pronouns, prepositions--- as did
-their size.  I then came upon a stupid idea.  "What if I
-were to take all these references and combine them into a
-single reference?"  Well then I guess I would have a
-dictionary.
+complexity, so too did the number of reference 
+sheets&mdash;adverbs, adjectives, pronouns, 
+prepositions&mdash;as did their size.  I then came upon 
+a stupid idea.  "What if I were to take all these 
+references and combine them into a single reference?"  
+Well then I guess I would have a dictionary.
 
 Here then, is *Dictionarium Gallovidii Linguae Latinae*,
 a Latin-English dictionary written from the perspective of
@@ -35,7 +35,7 @@ you printing it.
 
 ```Shell
 git clone https://github.com/jwrg/dictionarium.git
-pdflatex dictionarium.tex
+pdflatex dictionary.tex
 ```
 
 ## Sources
@@ -48,8 +48,8 @@ the Latin language.
 
 The document considers the following primary sources:
 
-- Molinarius (TTC's The Great Courses)
-- Wheelock
+- Molinarius (TTC's The Great Courses Latin 101)
+- Wheelock's Latin
 
 ### Secondary Sources
 
@@ -60,7 +60,8 @@ The document considers the following secondary sources:
 ## LaTeX Class and Packages
 
 The document makes use of custom LaTeX packages, which are
-collected under the Capiar project.
+collected under the [Capiar](https://github.com/jwrg/capiar)
+project:
 
 - dictionarium (class)
 - dictionarium (package)
@@ -68,8 +69,26 @@ collected under the Capiar project.
 
 ## Roadmap
 
+The following sections are decidedly incomplete, and
+require further attention:
+
+- Declensions (for adjectives)
+- Deponent verbs (examples)
+- Adverbs (formatting)
+- Conjunctions (formatting)
+- Pronouns (formatting)
+- Prepositions (formatting)
+ 
 In the future, the following will be added:
 
-- Deponent verbs
+- Conditionals and clauses
+- Interrogatives
+- The 4th and 5th declensions
+- Gerunds and gerundives
+- Numbers and counting
+- Appendices for irregulars
+
+Not related to the language, but also still to be added:
+
 - A proper preface
 - Tables that stick together
